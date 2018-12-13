@@ -1,0 +1,55 @@
+COMPARISON of 1665NT with 1819
+Num@Ref@1665 Words@1819 Words@Notes
+0@MAT.0.0@Mattânıŋ@Mâtteʾonuŋ@
+3@MAT.1.3@Tâmârdan@Tamardan@
+4@MAT.1.4@Nasonu, Nason, Salmonu@Nâsonu, Nâson, Salamonu@
+5@MAT.1.5@Salmon, Râhâbdan, Bâʿâzı, Bâʿâz, Râʿotdan, Ėssâyı@Salamon, Rahâbdan, Baʿozu, Baʿoz, Rûtdan, Yessayı@
+6@MAT.1.6@Ėssâ, pâdişâhı, pâdişâh, Ûriyânıŋkiden@Yessa, Pâdişâhı, Pâdişâh, ol, Ûryânıŋkiden@
+7@MAT.1.7@Rehobaʿâmı, Rehobaʿâm@ve, Rehbȯʿamı, Rehbȯʿam@
+8@MAT.1.8@Yoşâfâtı, Yoşâfât, ʿÛziyâyı@Yosâfâtı, Yosâfât, ʿUziyâyı@
+9@MAT.1.9@ʿÛziyâ@ʿUziyâ@
+10@MAT.1.10@Manaşşâyı, Manaşşâ, Yosiyâyı@Manâseyi, Manâse, Yosiyâhûʾu@
+11@MAT.1.11@Yosiyâ, Yohâniyâyı@Yosiyâhû, Yokniyâyı@
+12@MAT.1.12@Yohâniyâ, Şaltâʾėli, Şaltâʾėl@Yokniyâ, Sâltiʾēli, Sâltiʾēl@
+13@MAT.1.13@Elyâkîmi, Elyâkîm@Elyakîmi, Elyakîm@
+14@MAT.1.14@Sâdoku, Sâdok, Âhîni, Âhîn@Sadoku, Sadok, Âhîmi, Âhîm@
+15@MAT.1.15@Eliʿâzârı, Eliʿâzâr@Elʿâzâʾrı, Elʿâzâʾr@
+16@MAT.1.16@@ol@
+17@MAT.1.17@de@•, Hazret-i@
+18@MAT.1.18@Ve@ve@
+19@MAT.1.19@etmek@ėtmek@
+20@MAT.1.20@rüʾyâda, Ey, Dâvûd, mevlûd@düşünde, ėy, Dâvûduŋ, müvelled@
+22@MAT.1.22@Ve, Allah, oluna@ve, Rabb, ola@
+23@MAT.1.23@ʿEmmanuʾel, terceme, olunup, Allah, Teʿâlâ@ʿEmmânuʾel, •, tercüme, olup, Allâh@
+24@MAT.1.24@uykudan@uyuhudan@
+25@MAT.1.25@etmedi@ėtmedi@
+26@MAT.2.1@Hirodes, melikiŋ, Beyt-Lehemde@Herodes, şâhıŋ, Beyt-i, Lehemde@
+27@MAT.2.2@etmeḡe@ėtmeḡe@
+28@MAT.2.3@Hirodes, Melik@Şâh, Herodes@
+29@MAT.2.4@etdi, ȯnlardan@ėtdi, onlardan@
+30@MAT.2.5@ȯnlar, Beyt-Lehem, karyesinde@onlar, Beyt-i, Lehem, kariyesinde@
+31@MAT.2.6@ey, Beyt-Lehemi, küçükrek, senden, hâdî@ėy, Beyt-i, Lehemi, •, küççükrek, sende, mühdî@
+32@MAT.2.7@O, Hirodes, çağırıp, ȯnlardan@o, Herodes, çığırıp, onlardan@
+33@MAT.2.8@ȯnları, Beyt-Leheme, ȯnlara@onları, Beyt-i, Leheme, onlara@
+34@MAT.2.9@ȯnlar@onlar@
+35@MAT.2.10@ȯnlar@onlar@
+36@MAT.2.11@hediyeler, mürr-i, sâfî@hediyyeler, mürr-ü, sâfi@
+37@MAT.2.12@rüʾyâda, ȯnlara, Hirodese@düşünde, onlara, Herodese@
+38@MAT.2.13@Ve, ȯnlar, rüʾyâda, •, Hirodes, etmek@onlar, düşünde, Herodes, ėtmek@
+40@MAT.2.15@Hirodes, ağzı, oluna, çağırdım@Herodes, ağızı, ola, çığırdım@
+41@MAT.2.16@Hirodes, Beyt-Lehemde, etdiḡi@Herodes, Beyt-i, Lehemde, ėtdiḡi@
+42@MAT.2.17@peyġamberiŋ@Peyġamberiŋ, Rabbiŋ@
+43@MAT.2.18@tesellî, etmek@tesellîyi, ėtmek@
+44@MAT.2.19@Ȯndan, rüʾyâda@ȯndan, düşünde@
+45@MAT.2.20@@hem, da@
+47@MAT.2.22@Hirodesiŋ, yerine, melik, rüʾyâda, Celîl@Herodesiŋ, yerinde, senâ, ȯŋa, düşünde, Celîle@
+48@MAT.2.23@Nâseret, oluna, Nâseretli@Nazâret, Nazîritî@
+49@MAT.3.1@el-Maʿmadânî@Maʿmadânî@
+50@MAT.3.2@dėr@dėdi@
+51@MAT.3.3@İşʿayâ, peyġamber, çağıranıŋ, dėr@Esâʿiyâ, Peyġamber, çığıranıŋ, •, der@
+52@MAT.3.4@libâsı@{libâsı}, envâʿ-i@
+53@MAT.3.5@Erden, nâhiyeliler@hem, Yârden, nâhiyyeliler@
+54@MAT.3.6@Erdende@Yârdende@
+55@MAT.3.7@Ferîsîler, ȯnuŋ, ȯnlara, Ey@Ferîzzîler, onlarıŋ, onlara, ėy, •@
+56@MAT.3.8@getỉriŋ@getirin@
+57@MAT.3.9@dėmeḡe, sanmayasız, derim, Allah, etmeḡe@sakın, demeyesiz, dėrim, Allâh, ėtmeḡe@

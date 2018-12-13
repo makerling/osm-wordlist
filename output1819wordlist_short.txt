@@ -1,58 +1,58 @@
-MAT.0.0*Hazret-i ʿİsâ el-Mesîhiŋ İncîl-i Şerîfi Mattânıŋ kavlince
-MAT.1.1*İbrâhîm oğlu Dâvûduŋ oğlu ʿİsâ el-Mesîhiŋ mîlâdınıŋ kitâbıdır 
-MAT.1.2*İbrâhîm İshâkı tevlîd eyledi ve İshâk Yaʿkûbu tevlîd eyledi Yaʿkûb dahi Yahûdâyı ve ȯnuŋ karındaşlarını tevlîd eyledi 
-MAT.1.3*ve Yahûdâ Tâmârdan Fârsı ve Zârehi tevlîd eyledi Fârs dahi Hesronu tevlîd eyledi Hesron ise Ârâmı tevlîd eyledi 
-MAT.1.4*ve Ârâm ʿAmînâdâbı tevlîd eyledi ʿAmînâdâb dahi Nasonu tevlîd eyledi Nason ise Salmonu tevlîd eyledi 
-MAT.1.5*ve Salmon Râhâbdan Bâʿâzı tevlîd eyledi Bâʿâz dahi Râʿotdan ʿObeydi tevlîd eyledi ʿObeyd ise Ėssâyı tevlîd eyledi 
-MAT.1.6*ve Ėssâ Dâvûd pâdişâhı tevlîd eyledi Dâvûd pâdişâh dahi Ûriyânıŋkiden Süleymânı tevlîd eyledi 
-MAT.1.7*Süleymân Rehobaʿâmı tevlîd eyledi Rehobaʿâm dahi Âbiyâyı tevlîd eyledi Âbiyâ ise Âsâyı tevlîd eyledi 
-MAT.1.8*ve Âsâ Yoşâfâtı tevlîd eyledi Yoşâfât dahi Yorâmı tevlîd eyledi Yorâm ise ʿÛziyâyı tevlîd eyledi 
-MAT.1.9*ve ʿÛziyâ Yoʾtâmı tevlîd eyledi Yoʾtâm dahi Âhâzı tevlîd eyledi Âhâz ise Hizkiyâyı tevlîd eyledi 
-MAT.1.10*ve Hizkiyâ Manaşşâyı tevlîd eyledi Manaşşâ dahi ʿÂmonu tevlîd eyledi ʿÂmon ise Yosiyâyı tevlîd eyledi 
-MAT.1.11*ve Yosiyâ Yohâniyâyı ve Bâbil esîrliḡiniŋ zamânında olan karındaşlarını tevlîd eyledi 
-MAT.1.12*ve Bâbil esîrliḡinden soŋra Yohâniyâ Şaltâʾėli tevlîd eyledi Şaltâʾėl dahi Zorubabeli tevlîd eyledi 
-MAT.1.13*ve Zorubabel Âbiyûdu tevlîd eyledi Âbiyûd dahi Elyâkîmi tevlîd eyledi Elyâkîm ise ʿÂzoru tevlîd eyledi 
-MAT.1.14*ve ʿÂzor Sâdoku tevlîd eyledi Sâdok dahi Âhîni tevlîd eyledi Âhîn ise Eliyûdu tevlîd eyledi 
-MAT.1.15*ve Eliyûd Eliʿâzârı tevlîd eyledi Eliʿâzâr dahi Mattânı tevlîd eyledi Mattân ise Yaʿkûbu tevlîd eyledi 
-MAT.1.16*ve Yaʿkûb Hazret-i Meryemiŋ zevci Yûsufu tevlîd eyledi ki Mesîh dėdikleri ʿİsâ Hazretleri ȯndan doğmuşdur 
-MAT.1.17*Pes tevellüdâtıŋ cümlesi İbrâhîmden Dâvûda dek on dört tevellüddür ve Dâvûddan tâ Bâbil esîrliḡine dek on dört tevellüd de Bâbil esîrliḡinden dahi tâ Mesîhe dek on dört tevellüddür 
-MAT.1.18*Ve Hazret-i ʿİsâ el-Mesîhiŋ mevlidi böyle oldu • ȯnuŋ anası Meryem Yûsufa nâmzed olunca buluşmalarından evvel Rûhü'l-Kudüsden hâmile bulundu 
-MAT.1.19*ve kocası Yûsuf sıddîk olmağla ȯnuŋ ʿaybını fâş etmek istemeyip ȯnủ gizlice bırakmak ister idi 
-MAT.1.20*ve bunủ tefekkür ėder iken işte ȯŋa Rabbiŋ meleḡi rüʾyâda görünüp dėdi ki Ey Dâvûd oğlu Yûsuf zevceŋ Meryemi almağa korkma zîrâ içinde mevlûd olan Rûhü'l-Kudüsdendir 
-MAT.1.21*ve bir oğul doğuracakdır ki ȯnuŋ adını ʿİsâ koyasın zîrâ o kavmi günâhlarından halâs ėdecekdir 
-MAT.1.22*Ve bu cümle ȯnuŋ içỉn oldu ki Allah Teʿâlânıŋ nebî ağzı ile söylediḡi itmâm oluna çün dėdi ki 
-MAT.1.23*işte bir kız hâmile ola da bir oğul doğura ki adına ʿEmmanuʾel diyeler ol ki terceme olunup Allah Teʿâlâ bizim ile dėmekdir 
-MAT.1.24*Yûsuf dahi uykudan uyanıp Rabbiŋ meleḡi ȯŋa buyurduğu gibi eyledi ve zevcesini aldı 
-MAT.1.25*ammâ ȯŋa yakınlık etmedi tâ bikr oğlanı doğuruncaya dek ve ȯŋa ʿİsâ diyẻ ad kodu ∞ 
-MAT.2.1*Bu kez Hazret-i ʿİsâ Hirodes nâm melikiŋ ʿasrında Yahûdâ vilâyetinde olan Beyt-Lehemde doğunca işte şarkdan mecûsler Kuds-i Şerîfe vâsıl olup 
-MAT.2.2*dėdiler ki Yahûdîleriŋ doğmuş pâdişâhı kandadır zîrâ biz ȯnuŋ yıldızını maşrıkda gördük ve ȯŋa secde etmeḡe geldik 
-MAT.2.3*Hirodes Melik dahi bunủ işidip şaşdı ve bütün Kuds-i Şerîf dahi bile 
-MAT.2.4*ve o cümle baş imâmları ve kavmiŋ kâtiblerini cemʿ etdi de ȯnlardan Mesîh nerede doğacağını istiʿlâm eyledi 
-MAT.2.5*ȯnlar dahi Yahûdâ vilâyetiniŋ Beyt-Lehem nâm karyesinde dėdiler zîrâ nebî böyle yazdı ki 
-MAT.2.6*ve sen ey Yahûdâ vilâyetiniŋ Beyt-Lehemi Yahûdâ başları arasında küçükrek deḡilsin zîrâ senden bir hâdî hurûc eyleye ki İsrâʾîl kavmimi hidâyet eyleye 
-MAT.2.7*O zamân Hirodes mecûsleri tenhâya çağırıp yıldızıŋ ne zamân göründüḡünü ȯnlardan suʾâl eyledi 
-MAT.2.8*ve ȯnları Beyt-Leheme gönderip ȯnlara dėdi ki varıŋ ol maʿsûmuŋ bir-hoş haberin alıŋ ve ȯnủ bulduğuŋuz zamân baŋa iʿlâm eyleyiŋ ki ben dahi varıp ȯŋa secde eyleyem 
-MAT.2.9*ȯnlar dahi şâhı diŋledikden soŋra gitdiler ve işte şarkdan gördükleri yıldız öŋlerinde giderdi ve vara vara maʿsûmuŋ olduğu yeriŋ üzerinde durdu 
-MAT.2.10*ȯnlar dahi yıldızı görüp ziyâdesiyle ferahnâk oldular 
-MAT.2.11*ve eve girip maʿsûmu anası Meryem ile buldular da hurûr ile secde eylediler hem hazîneleri açıp ȯŋa hediyeler altun ve günlük ve mürr-i sâfî ihdâ eylediler 
-MAT.2.12*ve rüʾyâda ȯnlara ilhâm-ı rabbânî olup ki Hirodese dönmeyeler ġayrı yoldan vilâyetine gitdiler 
-MAT.2.13*Ve ȯnlar gitdikden soŋra işte Rabbiŋ meleḡi Yûsufa rüʾyâda görünüp dėdi ki uyan ve maʿsûmu hem anasını al da Mısra kaç • ben saŋa deyinceye dek orada ol zîrâ Hirodes maʿsûmu helâk etmek içỉn arayacakdır 
-MAT.2.14*ol dahi uyanıp maʿsûmu ve anasını gėcede aldı da Mısra göçdü 
-MAT.2.15*ve tâ Hirodes ölünceye dek orada durdu tâ ki Rabbiŋ nebî ağzı ile söylediḡi söz itmâm oluna çün dėdi ki ben oğlumu Mısırdan çağırdım
-MAT.2.16*bu kez Hirodes mecûslerden renklendiḡini görüp pek darıldı ve Beyt-Lehemde hem cümle sınᵼrlarında olan iki yaşında ve aşağa maʿsûmları mecûslerden istihbâr etdiḡi zamâna göre öldürtmeḡe gönderdi 
-MAT.2.17*o zamân Yeremiyâ peyġamberiŋ ağzı ile söylediḡi nesne itmâm olundu çün dėdi ki 
-MAT.2.18*Râmâda bir âvâz ve feryâd ve ağlayış hem ʿazîm sızlayış işidildi Râhel oğullarına ağlar ve nâ-mevcûd oldukları içỉn tesellî kabûl etmek istemedi 
-MAT.2.19*Ȯndan Hirodes öldükden soŋra işte Rabbiŋ meleḡi Mısırda Yûsufa rüʾyâda görünüp 
-MAT.2.20*dėdi ki uyan ve maʿsûmu ve anasını al İsrâʾîl vilâyetine git zîrâ maʿsûmuŋ cânını arayanlar öldüler 
-MAT.2.21*ol dahi uyanıp maʿsûmu ve anasını aldı da İsrâʾîl vilâyetine gitdi 
-MAT.2.22*ammâ Yahûdâ vilâyetinde Arkelaʾus babası Hirodesiŋ yerine melik olduğunu işidip oraya varmağa korkdu ve rüʾyâda ilhâm-ı rabbânî olup Celîl semtlerine gitdi 
-MAT.2.23*ve oraya gelip Nâseret nâm şehirde sâkin oldu tâ ki peyġamberleriŋ dėdiḡi itmâm oluna ki ȯnuŋ adı Nâseretli ola dėdiler ∞ 
-MAT.3.1*Ve ol eyyâmda Yuhannâ el-Maʿmadânî gelip Yahûdâ vilâyetiniŋ beriyyesinde nidâ ėderdi 
-MAT.3.2*ve tevbe eyleyiŋ zîrâ melekût ü's-semâ yakındır dėr idi 
-MAT.3.3*çün bu Yuhannâ ol kişidir ki İşʿayâ peyġamber ȯnuŋ içỉn söyleyip dėdi ki beriyyeden çağıranıŋ bir âvâzı var ki Rabbiŋ yolunu düzüŋ ȯnuŋ sebîllerini doğruladıŋ dėr 
-MAT.3.4*pes ol Yuhannânıŋ libâsı deve tüyünden idi ve bellerinde bir kayış kuşağı var idi hem ȯnuŋ taʿâmı çekirgeler ve yâbân balı idi 
-MAT.3.5*o zamân Kuds-i Şerîfli ve cümle Yahûdâlı ve Erden etrâfında olan bütün nâhiyeliler ȯŋa çıkdılar 
-MAT.3.6*ve günâhlarına iʿtirâf ėdip ȯndan Erdende müteʿammid oldular 
-MAT.3.7*ve görüp ki niçe Ferîsîler ve Zındîkler ȯnuŋ maʿmûdiyyesine gelirler ȯnlara dėdi ki Ey engerek yılanlarınıŋ nesli size gelecek ġazabdan kaçmağı kim gösterdi 
-MAT.3.8*pes tevbeye lâyık meyveler getỉriŋ 
-MAT.3.9*ve kendỉleriŋizde babamız İbrâhîm var dėmeḡe sanmayasız zîrâ ben size derim ki Allah Teʿâlâ bu taşlardan bile İbrâhîme oğullarını hâsıl etmeḡe kâdirdir 
+MAT.0.0 Hazret-i ʿİsâ el-Mesîhiŋ İncîl-i Şerîfi Mattânıŋ kavlince
+MAT.1.1 İbrâhîm oğlu Dâvûduŋ oğlu ʿİsâ el-Mesîhiŋ mîlâdınıŋ kitâbıdır 
+MAT.1.2 İbrâhîm İshâkı tevlîd eyledi ve İshâk Yaʿkûbu tevlîd eyledi Yaʿkûb dahi Yahûdâyı ve ȯnuŋ karındaşlarını tevlîd eyledi 
+MAT.1.3 ve Yahûdâ Tâmârdan Fârsı ve Zârehi tevlîd eyledi Fârs dahi Hesronu tevlîd eyledi Hesron ise Ârâmı tevlîd eyledi 
+MAT.1.4 ve Ârâm ʿAmînâdâbı tevlîd eyledi ʿAmînâdâb dahi Nasonu tevlîd eyledi Nason ise Salmonu tevlîd eyledi 
+MAT.1.5 ve Salmon Râhâbdan Bâʿâzı tevlîd eyledi Bâʿâz dahi Râʿotdan ʿObeydi tevlîd eyledi ʿObeyd ise Ėssâyı tevlîd eyledi 
+MAT.1.6 ve Ėssâ Dâvûd pâdişâhı tevlîd eyledi Dâvûd pâdişâh dahi Ûriyânıŋkiden Süleymânı tevlîd eyledi 
+MAT.1.7 Süleymân Rehobaʿâmı tevlîd eyledi Rehobaʿâm dahi Âbiyâyı tevlîd eyledi Âbiyâ ise Âsâyı tevlîd eyledi 
+MAT.1.8 ve Âsâ Yoşâfâtı tevlîd eyledi Yoşâfât dahi Yorâmı tevlîd eyledi Yorâm ise ʿÛziyâyı tevlîd eyledi 
+MAT.1.9 ve ʿÛziyâ Yoʾtâmı tevlîd eyledi Yoʾtâm dahi Âhâzı tevlîd eyledi Âhâz ise Hizkiyâyı tevlîd eyledi 
+MAT.1.10 ve Hizkiyâ Manaşşâyı tevlîd eyledi Manaşşâ dahi ʿÂmonu tevlîd eyledi ʿÂmon ise Yosiyâyı tevlîd eyledi 
+MAT.1.11 ve Yosiyâ Yohâniyâyı ve Bâbil esîrliḡiniŋ zamânında olan karındaşlarını tevlîd eyledi 
+MAT.1.12 ve Bâbil esîrliḡinden soŋra Yohâniyâ Şaltâʾėli tevlîd eyledi Şaltâʾėl dahi Zorubabeli tevlîd eyledi 
+MAT.1.13 ve Zorubabel Âbiyûdu tevlîd eyledi Âbiyûd dahi Elyâkîmi tevlîd eyledi Elyâkîm ise ʿÂzoru tevlîd eyledi 
+MAT.1.14 ve ʿÂzor Sâdoku tevlîd eyledi Sâdok dahi Âhîni tevlîd eyledi Âhîn ise Eliyûdu tevlîd eyledi 
+MAT.1.15 ve Eliyûd Eliʿâzârı tevlîd eyledi Eliʿâzâr dahi Mattânı tevlîd eyledi Mattân ise Yaʿkûbu tevlîd eyledi 
+MAT.1.16 ve Yaʿkûb Hazret-i Meryemiŋ zevci Yûsufu tevlîd eyledi ki Mesîh dėdikleri ʿİsâ Hazretleri ȯndan doğmuşdur 
+MAT.1.17 Pes tevellüdâtıŋ cümlesi İbrâhîmden Dâvûda dek on dört tevellüddür ve Dâvûddan tâ Bâbil esîrliḡine dek on dört tevellüd de Bâbil esîrliḡinden dahi tâ Mesîhe dek on dört tevellüddür 
+MAT.1.18 Ve Hazret-i ʿİsâ el-Mesîhiŋ mevlidi böyle oldu • ȯnuŋ anası Meryem Yûsufa nâmzed olunca buluşmalarından evvel Rûhü'l-Kudüsden hâmile bulundu 
+MAT.1.19 ve kocası Yûsuf sıddîk olmağla ȯnuŋ ʿaybını fâş etmek istemeyip ȯnủ gizlice bırakmak ister idi 
+MAT.1.20 ve bunủ tefekkür ėder iken işte ȯŋa Rabbiŋ meleḡi rüʾyâda görünüp dėdi ki Ey Dâvûd oğlu Yûsuf zevceŋ Meryemi almağa korkma zîrâ içinde mevlûd olan Rûhü'l-Kudüsdendir 
+MAT.1.21 ve bir oğul doğuracakdır ki ȯnuŋ adını ʿİsâ koyasın zîrâ o kavmi günâhlarından halâs ėdecekdir 
+MAT.1.22 Ve bu cümle ȯnuŋ içỉn oldu ki Allah Teʿâlânıŋ nebî ağzı ile söylediḡi itmâm oluna çün dėdi ki 
+MAT.1.23 işte bir kız hâmile ola da bir oğul doğura ki adına ʿEmmanuʾel diyeler ol ki terceme olunup Allah Teʿâlâ bizim ile dėmekdir 
+MAT.1.24 Yûsuf dahi uykudan uyanıp Rabbiŋ meleḡi ȯŋa buyurduğu gibi eyledi ve zevcesini aldı 
+MAT.1.25 ammâ ȯŋa yakınlık etmedi tâ bikr oğlanı doğuruncaya dek ve ȯŋa ʿİsâ diyẻ ad kodu ∞ 
+MAT.2.1 Bu kez Hazret-i ʿİsâ Hirodes nâm melikiŋ ʿasrında Yahûdâ vilâyetinde olan Beyt-Lehemde doğunca işte şarkdan mecûsler Kuds-i Şerîfe vâsıl olup 
+MAT.2.2 dėdiler ki Yahûdîleriŋ doğmuş pâdişâhı kandadır zîrâ biz ȯnuŋ yıldızını maşrıkda gördük ve ȯŋa secde etmeḡe geldik 
+MAT.2.3 Hirodes Melik dahi bunủ işidip şaşdı ve bütün Kuds-i Şerîf dahi bile 
+MAT.2.4 ve o cümle baş imâmları ve kavmiŋ kâtiblerini cemʿ etdi de ȯnlardan Mesîh nerede doğacağını istiʿlâm eyledi 
+MAT.2.5 ȯnlar dahi Yahûdâ vilâyetiniŋ Beyt-Lehem nâm karyesinde dėdiler zîrâ nebî böyle yazdı ki 
+MAT.2.6 ve sen ey Yahûdâ vilâyetiniŋ Beyt-Lehemi Yahûdâ başları arasında küçükrek deḡilsin zîrâ senden bir hâdî hurûc eyleye ki İsrâʾîl kavmimi hidâyet eyleye 
+MAT.2.7 O zamân Hirodes mecûsleri tenhâya çağırıp yıldızıŋ ne zamân göründüḡünü ȯnlardan suʾâl eyledi 
+MAT.2.8 ve ȯnları Beyt-Leheme gönderip ȯnlara dėdi ki varıŋ ol maʿsûmuŋ bir-hoş haberin alıŋ ve ȯnủ bulduğuŋuz zamân baŋa iʿlâm eyleyiŋ ki ben dahi varıp ȯŋa secde eyleyem 
+MAT.2.9 ȯnlar dahi şâhı diŋledikden soŋra gitdiler ve işte şarkdan gördükleri yıldız öŋlerinde giderdi ve vara vara maʿsûmuŋ olduğu yeriŋ üzerinde durdu 
+MAT.2.10 ȯnlar dahi yıldızı görüp ziyâdesiyle ferahnâk oldular 
+MAT.2.11 ve eve girip maʿsûmu anası Meryem ile buldular da hurûr ile secde eylediler hem hazîneleri açıp ȯŋa hediyeler altun ve günlük ve mürr-i sâfî ihdâ eylediler 
+MAT.2.12 ve rüʾyâda ȯnlara ilhâm-ı rabbânî olup ki Hirodese dönmeyeler ġayrı yoldan vilâyetine gitdiler 
+MAT.2.13 Ve ȯnlar gitdikden soŋra işte Rabbiŋ meleḡi Yûsufa rüʾyâda görünüp dėdi ki uyan ve maʿsûmu hem anasını al da Mısra kaç • ben saŋa deyinceye dek orada ol zîrâ Hirodes maʿsûmu helâk etmek içỉn arayacakdır 
+MAT.2.14 ol dahi uyanıp maʿsûmu ve anasını gėcede aldı da Mısra göçdü 
+MAT.2.15 ve tâ Hirodes ölünceye dek orada durdu tâ ki Rabbiŋ nebî ağzı ile söylediḡi söz itmâm oluna çün dėdi ki ben oğlumu Mısırdan çağırdım
+MAT.2.16 bu kez Hirodes mecûslerden renklendiḡini görüp pek darıldı ve Beyt-Lehemde hem cümle sınᵼrlarında olan iki yaşında ve aşağa maʿsûmları mecûslerden istihbâr etdiḡi zamâna göre öldürtmeḡe gönderdi 
+MAT.2.17 o zamân Yeremiyâ peyġamberiŋ ağzı ile söylediḡi nesne itmâm olundu çün dėdi ki 
+MAT.2.18 Râmâda bir âvâz ve feryâd ve ağlayış hem ʿazîm sızlayış işidildi Râhel oğullarına ağlar ve nâ-mevcûd oldukları içỉn tesellî kabûl etmek istemedi 
+MAT.2.19 Ȯndan Hirodes öldükden soŋra işte Rabbiŋ meleḡi Mısırda Yûsufa rüʾyâda görünüp 
+MAT.2.20 dėdi ki uyan ve maʿsûmu ve anasını al İsrâʾîl vilâyetine git zîrâ maʿsûmuŋ cânını arayanlar öldüler 
+MAT.2.21 ol dahi uyanıp maʿsûmu ve anasını aldı da İsrâʾîl vilâyetine gitdi 
+MAT.2.22 ammâ Yahûdâ vilâyetinde Arkelaʾus babası Hirodesiŋ yerine melik olduğunu işidip oraya varmağa korkdu ve rüʾyâda ilhâm-ı rabbânî olup Celîl semtlerine gitdi 
+MAT.2.23 ve oraya gelip Nâseret nâm şehirde sâkin oldu tâ ki peyġamberleriŋ dėdiḡi itmâm oluna ki ȯnuŋ adı Nâseretli ola dėdiler ∞ 
+MAT.3.1 Ve ol eyyâmda Yuhannâ el-Maʿmadânî gelip Yahûdâ vilâyetiniŋ beriyyesinde nidâ ėderdi 
+MAT.3.2 ve tevbe eyleyiŋ zîrâ melekût ü's-semâ yakındır dėr idi 
+MAT.3.3 çün bu Yuhannâ ol kişidir ki İşʿayâ peyġamber ȯnuŋ içỉn söyleyip dėdi ki beriyyeden çağıranıŋ bir âvâzı var ki Rabbiŋ yolunu düzüŋ ȯnuŋ sebîllerini doğruladıŋ dėr 
+MAT.3.4 pes ol Yuhannânıŋ libâsı deve tüyünden idi ve bellerinde bir kayış kuşağı var idi hem ȯnuŋ taʿâmı çekirgeler ve yâbân balı idi 
+MAT.3.5 o zamân Kuds-i Şerîfli ve cümle Yahûdâlı ve Erden etrâfında olan bütün nâhiyeliler ȯŋa çıkdılar 
+MAT.3.6 ve günâhlarına iʿtirâf ėdip ȯndan Erdende müteʿammid oldular 
+MAT.3.7 ve görüp ki niçe Ferîsîler ve Zındîkler ȯnuŋ maʿmûdiyyesine gelirler ȯnlara dėdi ki Ey engerek yılanlarınıŋ nesli size gelecek ġazabdan kaçmağı kim gösterdi 
+MAT.3.8 pes tevbeye lâyık meyveler getỉriŋ 
+MAT.3.9 ve kendỉleriŋizde babamız İbrâhîm var dėmeḡe sanmayasız zîrâ ben size derim ki Allah Teʿâlâ bu taşlardan bile İbrâhîme oğullarını hâsıl etmeḡe kâdirdir 
