@@ -24,7 +24,7 @@ with open(srcfile1665NT) as file1, open(srcfile1819) as file2:
         
         different1String = ', '.join(different1)
         different2String = ', '.join(different2)
-        
+     
         if different1String != different2String:
             finalString = str(i)+'@'+str(ref)+'@'+str(different1String.strip())+'@'+str(different2String)+'@\n'
             with open(output,'a') as f:
