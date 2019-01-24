@@ -67,10 +67,11 @@ with open(srcfile1665NT) as file1, open(srcfile1819) as file2:
                 with open(output,'a') as f:
                     f.write(checkContainsAlphaStripped)
                 with open(log,'a') as f:                    
-                    f.write(str(set1665NT))
-                    f.write(str(set1819))                    
-                    f.write(str(different1String))                    
-                    f.write(str(different1StringStripped))                    
+       	        	a = print(set1665NT)
+                	b = print(set1819)
+               		c = print(different1String)
+               		d = print(different1StringStripped)
+			fw.write(a)	
         print (i)
 print('done')
 
