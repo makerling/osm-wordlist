@@ -1,10 +1,11 @@
 import unicodedata
 import re
 
-srcfile1665NT = 'output1665wordlist_short.txt'
-srcfile1819 = 'output1819wordlist_short.txt'
+srcfile1665NT = 'output1665wordlist.txt'
+srcfile1819 = 'output1819wordlist.txt'
 srcfileExclude = 'master_exclude_list_1665-1819.txt'
 output = 'output.txt'
+log = 'log.log'
 
 with open(output, 'w') as clearfile:
 	print('clearing ' + output + ' file')
@@ -16,7 +17,7 @@ with open(srcfile1665NT) as file1, open(srcfile1819) as file2:
     for i, (line_from_file_1_raw, line_from_file_2_raw) in enumerate(zip(file1, file2)):
 
         f1 = open(srcfileExclude, "r") 
-        file1_raw = f1.read()
+        file1_raw = f1.read() 
         #file1_lowercase = file1_raw.lower()
         #file1_normalized = unicodedata.normalize('NFD',file1_lowercase)
         #shaved = ''.join(c for c in file1_normalized if not unicodedata.combining(c))
@@ -53,25 +54,28 @@ with open(srcfile1665NT) as file1, open(srcfile1819) as file2:
         different1StringStripped = re.sub(r'[A-ZÂÇÎİȮÖÛÜĖĠŞ\-][^,]+?\b', '', different1String)
         print(different1String)
         print(different1StringStripped)        
-        print
         
         different2String = ', '.join(different2)
         different2StringStripped = re.sub(r'[A-ZÂÇÎİȮÖÛÜĖĠŞ\-][^,]+?\b', '', different2String)        
      
         if different1String != different2String:
-            #finalString = str(i)+'@'+str(ref)+'@'+str(different1StringStripped.strip())+'@'+str(different2StringStripped)+'@\n'
-            finalString = str(i)+'@'+str(ref)+'@'+str(different1String.strip())+'@'+str(different2String)+'@\n'            
+            finalString = str(i)+'@'+str(ref)+'@'+str(different1StringStripped.strip())+'@'+str(different2StringStripped)+'@\n'
+            #finalString = str(i)+'@'+str(ref)+'@'+str(different1String.strip())+'@'+str(different2String)+'@\n'            
             checkContainsAlpha = re.search('[a-z]',finalString)
             if checkContainsAlpha:
                 checkContainsAlphaStripped = re.sub(r'(, , , )|(@, , )|(@ ,)|(@\ʿ )|(, , @)|(, @)|(@ʿ, )|(@, )|(, , )', '@', finalString)
                 with open(output,'a') as f:
-                    f.write(finalString)
-        
+                    f.write(checkContainsAlphaStripped)
+                with open(log,'a') as f:                    
+                    f.write(str(set1665NT))
+                    f.write(str(set1819))                    
+                    f.write(str(different1String))                    
+                    f.write(str(different1StringStripped))                    
         print (i)
 print('done')
 
 
-for all words in list that begin with capital letter
-    if not exist in the other project list
-        if exist with case ignore
-            make element lowercase
+#for all words in list that begin with capital letter
+ #   if not exist in the other project list
+  #      if exist with case ignore
+   #         make element lowercase
