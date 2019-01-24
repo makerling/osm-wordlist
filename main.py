@@ -71,7 +71,7 @@ with open(srcfile1665NT) as file1, open(srcfile1819) as file2:
                 	b = print(set1819)
                		c = print(different1String)
                		d = print(different1StringStripped)
-			fw.write(a)	
+               		fw.write(a)	
         print (i)
 print('done')
 
