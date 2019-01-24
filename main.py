@@ -9,6 +9,8 @@ log = 'log.log'
 
 with open(output, 'w') as clearfile:
 	print('clearing ' + output + ' file')
+with open(log, 'w') as clearfile:
+	print('clearing ' + log + ' file')
 with open(output,'a') as f:
     f.write('COMPARISON of 1665NT with 1819\n')
     f.write('Num@Ref@1665 Words@1819 Words@Notes\n')
@@ -41,8 +43,8 @@ with open(srcfile1665NT) as file1, open(srcfile1819) as file2:
         list1665NTPop = list1665NT.pop(0)
         set1665NT = set(list1665NT)
         
-        #print (set1665NT)
-        #print (set1819)
+        print(set1665NT)
+        print(set1819)
         
         different1beforeExclude = [x for x in list1665NT if not x in set1819]
         different1 = [x for x in different1beforeExclude if not x in file1_set]
@@ -52,8 +54,8 @@ with open(srcfile1665NT) as file1, open(srcfile1819) as file2:
         
         different1String = ', '.join(different1)
         different1StringStripped = re.sub(r'[A-ZÂÇÎİȮÖÛÜĖĠŞ\-][^,]+?\b', '', different1String)
-        #print(different1String)
-        #print(different1StringStripped)        
+        print(different1String)
+        print(different1StringStripped)        
         
         different2String = ', '.join(different2)
         different2StringStripped = re.sub(r'[A-ZÂÇÎİȮÖÛÜĖĠŞ\-][^,]+?\b', '', different2String)        
@@ -66,12 +68,6 @@ with open(srcfile1665NT) as file1, open(srcfile1819) as file2:
                 checkContainsAlphaStripped = re.sub(r'(, , , )|(@, , )|(@ ,)|(@\ʿ )|(, , @)|(, @)|(@ʿ, )|(@, )|(, , )', '@', finalString)
                 with open(output,'a') as f:
                     f.write(checkContainsAlphaStripped)
-                with open(log,'a') as f:                    
-       	        	a = print(set1665NT)
-                	b = print(set1819)
-               		c = print(different1String)
-               		d = print(different1StringStripped)
-               		fw.write(a)	
         print (i)
 print('done')
 
