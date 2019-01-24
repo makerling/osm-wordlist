@@ -41,8 +41,8 @@ with open(srcfile1665NT) as file1, open(srcfile1819) as file2:
         list1665NTPop = list1665NT.pop(0)
         set1665NT = set(list1665NT)
         
-        print (set1665NT)
-        print (set1819)
+        #print (set1665NT)
+        #print (set1819)
         
         different1beforeExclude = [x for x in list1665NT if not x in set1819]
         different1 = [x for x in different1beforeExclude if not x in file1_set]
@@ -52,8 +52,8 @@ with open(srcfile1665NT) as file1, open(srcfile1819) as file2:
         
         different1String = ', '.join(different1)
         different1StringStripped = re.sub(r'[A-ZÂÇÎİȮÖÛÜĖĠŞ\-][^,]+?\b', '', different1String)
-        print(different1String)
-        print(different1StringStripped)        
+        #print(different1String)
+        #print(different1StringStripped)        
         
         different2String = ', '.join(different2)
         different2StringStripped = re.sub(r'[A-ZÂÇÎİȮÖÛÜĖĠŞ\-][^,]+?\b', '', different2String)        
