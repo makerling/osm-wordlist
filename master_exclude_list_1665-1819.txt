@@ -93,11 +93,16 @@ eḡer
 elli
 el-Mesîhiŋ
 ėtdi
+etdi
 ėtdiḡi
+etdiḡi
 ėtmeḡe
+etmeḡe
 ėtmek
+etmek
 evvel
 evvelki
+ey
 ėy
 eyle
 eyledi
@@ -283,6 +288,7 @@ tekrâr
 üzerine
 var
 ve
+Ve
 vėr
 vėrdi
 vėrip

@@ -35,7 +35,8 @@ with open(srcfile1665NT) as file1, open(srcfile1819) as file2:
         ref = list1819[0]
         list1819Pop = list1819.pop(0)
         set1819 = set(list1819)
-        #line_from_file_2_raw_lowercase = line_from_file_2_raw.lower() 
+        
+	#line_from_file_2_raw_lowercase = line_from_file_2_raw.lower() 
         #line_from_file_2_raw_normalized = unicodedata.normalize('NFD',line_from_file_2_raw_lowercase) 
         #shaved = ''.join(c for c in line_from_file_2_raw_normalized if not unicodedata.combining(c))
         #final = unicodedata.normalize('NFC', shaved)         
@@ -65,7 +66,7 @@ with open(srcfile1665NT) as file1, open(srcfile1819) as file2:
             #finalString = str(i)+'@'+str(ref)+'@'+str(different1String.strip())+'@'+str(different2String)+'@\n'            
             checkContainsAlpha = re.search('[a-z]',finalString)
             if checkContainsAlpha:
-                checkContainsAlphaStripped = re.sub(r'(, , , )|(@, , )|(@ ,)|(@\ʿ )|(, , @)|(, @)|(@ʿ, )|(@, )|(, , )', '@', finalString)
+                checkContainsAlphaStripped = re.sub(r'(@, , )|(@ ,)|(@\ʿ )|(, , @)|(, @)|(@ʿ, )|(@, )', '@', finalString)
                 with open(output,'a') as f:
                     f.write(checkContainsAlphaStripped)
         print (i)
