@@ -1,3 +1,13 @@
+
+#need to strip file of capitalized words with hyphens to allow lowercase hyphens to be kept
+#1654 - removed in 1819, 1631 - removed in 1665
+#\b[A-ZÂÇÎİȮÖÛÜĖĠŞ]\S+?-.+?\b - replace with nothing (make sure to click 'match case')
+#this one gets el-Mesi...
+#\b\S+?-[A-ZÂÇÎİȮÖÛÜĖĠŞ].+?\b
+#1819 - 283 removed, 1665 - 291 removed
+#run with python3 main.py > log
+
+
 import unicodedata
 import re
 
@@ -54,21 +64,25 @@ with open(srcfile1665NT) as file1, open(srcfile1819) as file2:
         different2 = [x for x in different2beforeExclude if not x in file1_set]
         
         different1String = ', '.join(different1)
-        different1StringStripped = re.sub(r'[A-ZÂÇÎİȮÖÛÜĖĠŞ\-][^,]+?\b', '', different1String)
+        different1StringStripped = re.sub(r'[A-ZÂÇÎİȮÖÛÜĖĠŞ][^,]+?\b', '', different1String)
         print(different1String)
         print(different1StringStripped)        
         
         different2String = ', '.join(different2)
-        different2StringStripped = re.sub(r'[A-ZÂÇÎİȮÖÛÜĖĠŞ\-][^,]+?\b', '', different2String)        
+        different2StringStripped = re.sub(r'[A-ZÂÇÎİȮÖÛÜĖĠŞ][^,]+?\b', '', different2String)
+        print(different2String)
+        print(different2StringStripped)  
      
         if different1String != different2String:
             finalString = str(i)+'@'+str(ref)+'@'+str(different1StringStripped.strip())+'@'+str(different2StringStripped)+'@\n'
             #finalString = str(i)+'@'+str(ref)+'@'+str(different1String.strip())+'@'+str(different2String)+'@\n'            
             checkContainsAlpha = re.search('[a-z]',finalString)
             if checkContainsAlpha:
-                checkContainsAlphaStripped = re.sub(r'(@, , )|(@ ,)|(@\ʿ )|(, , @)|(, @)|(@ʿ, )|(@, )', '@', finalString)
+                checkContainsAlphaStripped = re.sub(r'(@, , )|(@ ,)|(@\ʿ )|(, , @)|(, @)|(@ʿ, )|(@, )|(@-, )|(, -@)|(@-i)', '@', finalString)
+                checkContainsAlphaStripped2 = re.sub(r'(, -i)|( -,)', '', checkContainsAlphaStripped)
                 with open(output,'a') as f:
-                    f.write(checkContainsAlphaStripped)
+                    f.write(checkContainsAlphaStripped2)
+		
         print (i)
 print('done')
 
